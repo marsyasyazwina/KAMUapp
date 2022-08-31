@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KAMUapp</string>
+    <string name="makeup_name">MakeUp Name</string>
+    <string name="harga_makeup">Harga MakeUp</string>
+</resources>
